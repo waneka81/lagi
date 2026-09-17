@@ -1,0 +1,6 @@
+{
+  "name": "Executive Distribution & Logistics Dashboard",
+  "description": "Dashboard interaktif monitoring performa distribusi logistik YTD, MTD, NRFS, OTD, dan performa ekspedisi dengan dukungan upload data Excel dan CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
